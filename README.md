@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img alt="Move.it" title="Move.it" src=".github/logo.png" width="100%" />
+  <img alt="Move.it" title="Move.it" src=".github/logo.png" width="40%" />
 </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Ícones</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Icones</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Move.it" src=".github/mockupmoveit.png" width="100%">
+  <img alt="Move.it" src=".github/mockupmoveit.png" width="90%">
 </p>
 
 ## 🚀 Tecnologias
